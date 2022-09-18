@@ -1,0 +1,65 @@
+[
+    {
+        "productName": "Butter Croissant",
+        "price": 1,
+        "id": 1,
+        "cartQty": 0,
+        "imgURL": "/img/croissant.jpg"
+    },
+    {
+        "productName": "Eclair",
+        "price": 2,
+        "id": 2,
+        "cartQty": 0,
+        "imgURL": "/img/eclair.jpg"
+    },
+    {
+        "productName": "Salted Caramel Choux",
+        "price": 2,
+        "id": 3,
+        "cartQty": 0,
+        "imgURL": "/img/choux.jpg"
+    },
+    {
+        "productName": "Orange Dressing Salad",
+        "price": 6,
+        "id": 4,
+        "cartQty": 0,
+        "imgURL": "/img/salad.jpg"
+    },
+    {
+        "productName": "Fruit Salad",
+        "price": 5,
+        "id": 5,
+        "cartQty": 0,
+        "imgURL": "/img/fruit-salad.jpg"
+    },
+    {
+        "productName": "Beef Lasagna",
+        "price": 8,
+        "id": 6,
+        "cartQty": 0,
+        "imgURL": "/img/lasagna.jpg"
+    },
+    {
+        "productName": "Pizza",
+        "price": 10,
+        "id": 7,
+        "cartQty": 0,
+        "imgURL": "/img/pizza.jpg"
+    },
+    {
+        "productName": "Iced Tea",
+        "price": 1,
+        "id": 8,
+        "cartQty": 0,
+        "imgURL": "/img/tea.jpg"
+    },
+    {
+        "productName": "Fruit Juice",
+        "price": 3,
+        "id": 9,
+        "cartQty": 0,
+        "imgURL": "/img/juice.jpg"
+    }
+]
