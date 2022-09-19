@@ -27,7 +27,7 @@ export class Product extends React.Component {
                 { this.props.listProduct.map((item, idx) => (
                     <li key={'key' + idx} id={item.id} className="productItem">
                         <div className="productImageWrap">
-                            <img className="productImage" src={item.imgURL} alt={item.productName}></img>
+                            <img className="productImage" src={process.env.PUBLIC_URL + item.imgURL} alt={item.productName}></img>
                         </div>
                         <div className="productInfo">
                             <span className="productName">{item.productName}</span>
